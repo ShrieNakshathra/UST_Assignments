@@ -1,0 +1,104 @@
+package com;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+public class AppLogicTest {
+
+	@BeforeClass
+	public static void setUpBeforeClass() throws Exception {
+	}
+
+	@AfterClass
+	public static void tearDownAfterClass() throws Exception {
+	}
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+	@Test
+	public void testLogin() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsEligibleToVote() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testToUpperCase() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsValidEmail() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsValidPassword() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsCSVFile() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetUsername() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetListSize() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testContainsValue() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCheckAge() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGreetUser() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsUserActive() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCountCharacters() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetCountryCode() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsDataPresent() {
+		fail("Not yet implemented");
+	}
+
+}

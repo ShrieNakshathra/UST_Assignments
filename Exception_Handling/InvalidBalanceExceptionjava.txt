@@ -1,0 +1,28 @@
+class InvalidBalanceException extends Exception{
+		AgeException(String mssge){
+		super(mssge);
+		}
+}
+class UsersException
+{
+
+	public static void main(String args[])
+		{
+		try{
+			int age=12;
+			if(age<18)
+			{
+				throw new InvalidBalanceException("Insufficient Balance");
+			}
+			
+			
+			
+			}
+		catch(InvalidBalacneException e)
+			{
+			System.out.println(e);
+			}
+		
+
+		}
+}
